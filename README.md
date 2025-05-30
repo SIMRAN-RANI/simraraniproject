@@ -1,5 +1,6 @@
 # simraraniproject
 this is my first repo.
 <br>
-Author -Simran rani 
+Author -Simran rani (My name)
+
 
